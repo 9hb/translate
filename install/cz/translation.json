@@ -1,7 +1,7 @@
 {
   "welcome": {
     "title": "Vítejte v průvodci nastavením!",
-    "description": "Snadná a pokročilá nastavení. Pokud máte potíže, nezapomeňte se podívat do dokumentace k instalaci."
+    "description": "Jednoduchá a pokročilá nastavení. Pokud máte potíže, podívejte se do dokumentace k instalaci."
   },
   "steps": {
     "1": {
@@ -12,7 +12,7 @@
     },
     "2": {
       "title": "Nastavení databáze",
-      "database_connection_error": "Chyba připojení k databázi! Zkontrolujte svá nastavení databáze.",
+      "database_connection_error": "Chyba připojení k databázi! Zkontrolujte nastavení vaší databáze.",
       "inputs": {
         "host": "Hostitel",
         "port": "Port",
@@ -67,15 +67,15 @@
   "prev": "Předchozí",
   "next": "Další",
   "processing": "Zpracovávání...",
-  "fill_fields": "Prosím, vyplňte všechna pole.",
+  "fill_fields": "Prosím vyplňte všechna pole.",
   "password_mismatch": "Hesla se neshodují.",
-  "password_bad": "Nemůžete použít jednoduchá hesla!",
+  "password_bad": "Heslo je příliš jednoduché!",
   "invalid_email": "Neplatná e-mailová adresa!",
   "invalid_username": "Neplatné uživatelské jméno!",
-  "username_length": "Uživatelské jméno musí mít 3-16 znaků.",
-  "password_length": "Heslo musí mít alespoň 6 znaků.",
-  "username_taken": "Uživatelské jméno je již obsazeno!",
-  "email_taken": "E-mail je již používán!",
+  "username_length": "Uživatelské jméno musí obsahovat 3-16 znaků.",
+  "password_length": "Heslo musí obsahovat alespoň 6 znaků.",
+  "username_taken": "Toto uživatelské jméno již existuje!",
+  "email_taken": "Tento e-mail je již používán!",
   "enable": "Povolit",
   "disable": "Zakázat",
   "select_timezone": "Vyberte časové pásmo",
